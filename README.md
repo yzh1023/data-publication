@@ -5,7 +5,9 @@ This repository is the supplementary code for the paper 'From genebank to field:
 This file serves as the filtration process code of the raw vcf file submitted to European Nucleotide Archive under the project number PRJEB53924, including:
 * the filtration of minor allele frequency, missing value,
 * marker pruning based on linkage disequilibrium
-* imputation.
+* imputation
+
+(The filtering criteria can be changed depending on the different research topic)
 
 ### mantel_test.R
 
