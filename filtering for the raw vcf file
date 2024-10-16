@@ -1,6 +1,6 @@
-1. Filter vcf files by minor allele frequency and missing rate：
+* Filter vcf files by minor allele frequency and missing rate：
 
-./plink --vcf input_file --geno 0.1 --maf 0.05 --out output_file_name --recode vcf-iid  --allow-extra-chr --set-missing-var-ids @:# --keep-allele-order --double-id
+* `./plink --vcf input_file --geno 0.1 --maf 0.05 --out output_file_name --recode vcf-iid  --allow-extra-chr --set-missing-var-ids @:# --keep-allele-order --double-id`
 
 2. Linkage disequilibrium based SNP pruning: 
 
