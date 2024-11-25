@@ -6,6 +6,7 @@ This file serves as the filtration process code of the raw vcf file submitted to
 * the filtration of minor allele frequency, missing value,
 * marker pruning based on linkage disequilibrium
 * imputation
+* admixture
 
 (The filtering criteria can be changed depending on the different research topic)
 
