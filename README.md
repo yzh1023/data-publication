@@ -13,3 +13,7 @@ This file serves as the filtration process code of the raw vcf file submitted to
 ### mantel_test.R
 
 Contains the R script for conducting the mantel test 
+
+### cross-validation.R
+
+Contains the R script for five-fold cross-validation
