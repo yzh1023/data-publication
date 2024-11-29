@@ -1,4 +1,4 @@
-This repository is the supplementary code for the paper 'From genebank to field: enhancing barley breeding with precision phenotyping and genotyping' by Zhihui Yuan et al. in 2024.
+This repository is the supplementary code for the paper 'High-quality phenotypic and genotypic dataset of barley genebank core-collection to unlock untapped genetic diversity' by Zhihui Yuan et al. in 2024.
 
 ### filtering for the raw vcf file.txt
 
