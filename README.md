@@ -1,4 +1,4 @@
-This repository is the supplementary code for the paper 'High-quality phenotypic and genotypic dataset of barley genebank core-collection to unlock untapped genetic diversity' by Zhihui Yuan et al. in 2024.
+This repository is the supplementary code for the paper 'High-quality phenotypic and genotypic dataset of barley genebank core-collection to unlock untapped genetic diversity' by Zhihui Yuan et al.
 
 ### filtering for the raw vcf file.txt
 
@@ -12,8 +12,12 @@ This file serves as the filtration process code of the raw vcf file submitted to
 
 ### mantel_test.R
 
-Contains the R script for conducting the mantel test 
+It contains the R script for conducting the mantel test 
 
 ### cross-validation.R
 
-Contains the R script for five-fold cross-validation
+It contains the R script for five-fold cross-validation, and the script to generate the plot.
+
+### plot_admixture.R
+
+It contains the R script for generating the admixture plot
